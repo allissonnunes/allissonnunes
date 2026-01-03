@@ -1,21 +1,16 @@
-<!-- ===================== -->
+# Hi 👋, I'm Allisson Nunes
 
-<!-- 🇺🇸 English Version -->
-
-<!-- ===================== -->
-
-# Allisson Nunes
-
-Minimalist software architecture & development.
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-allissonnunes-181717?style=flat\&logo=linkedin)](https://www.linkedin.com/in/allissonnunes)
 [![GitHub](https://img.shields.io/badge/github-allissonnunes-181717?style=flat\&logo=github)](https://github.com/allissonnunes)
-[![Profile](https://img.shields.io/badge/portfolio-allissonnunes.com.br-0A0A0A?style=flat)](https://allissonnunes.com.br)
+[![Personal site](https://img.shields.io/badge/personal-allissonnunes.com.br-0A0A0A?style=flat)](https://allissonnunes.com.br)
+
+Minimalist software developer.
 
 ---
 
 ### About
 
-Software engineer focused on **clean architecture**, **backend development**, and **well‑structured systems**.
+Software developer focused on **clean architecture**, **backend development**, and **well‑structured systems**.
 
 I value:
 
@@ -39,69 +34,8 @@ This profile is a space to share projects, experiments, and technical ideas — 
 
 ### Tech stack (core)
 
-* Java / Spring
-* SQL / PostgreSQL
-* Messaging & async processing
-* Docker
-* Linux
+<img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Go-FFA500?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> 
 
----
+<img src="https://img.shields.io/badge/Spring-4169e1?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Quarkus-4169e1?style=for-the-badge&logo=quarkus&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 
-### Contact
-
-* GitHub: [https://github.com/allissonnunes](https://github.com/allissonnunes)
-* Portfolio: [https://allissonnunes.com.br](https://allissonnunes.com.br)
-
-<!-- ===================== -->
-
-<!-- 🇧🇷 Versão em Português -->
-
-<!-- ===================== -->
-
-# Allisson Nunes
-
-Arquitetura e desenvolvimento de software com foco em simplicidade.
-
-[![GitHub](https://img.shields.io/badge/github-allissonnunes-181717?style=flat\&logo=github)](https://github.com/allissonnunes)
-[![Portfólio](https://img.shields.io/badge/portfolio-allissonnunes.com.br-0A0A0A?style=flat)](https://allissonnunes.com.br)
-
----
-
-### Sobre
-
-Engenheiro de software com foco em **arquitetura limpa**, **desenvolvimento backend** e **sistemas bem estruturados**.
-
-Valorizo:
-
-* Clareza acima de complexidade
-* Simplicidade acima de excesso
-* Manutenibilidade no longo prazo
-
-Este perfil é um espaço para compartilhar projetos, experimentos e ideias técnicas — de forma pragmática e objetiva.
-
----
-
-### Principais interesses
-
-* Arquitetura de software
-* Desenvolvimento backend
-* Sistemas distribuídos
-* Clean code & princípios de design
-* Engenharia pragmática
-
----
-
-### Stack principal
-
-* Java / Spring
-* SQL / PostgreSQL
-* Mensageria e processamento assíncrono
-* Docker
-* Linux
-
----
-
-### Contato
-
-* GitHub: [https://github.com/allissonnunes](https://github.com/allissonnunes)
-* Portfólio: [https://allissonnunes.com.br](https://allissonnunes.com.br)
+<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-9370db?style=for-the-badge&logo=kubernetes&logoColor=white" />
